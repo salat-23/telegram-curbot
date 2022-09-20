@@ -1,0 +1,8 @@
+bot:
+  name: ${BOT_NAME:Curriculum bot}
+  token: ${BOT_TOKEN:5705610137:AAFzOm5bcs7978Sdssr6niAVSY-AfIGQFiQ}
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
